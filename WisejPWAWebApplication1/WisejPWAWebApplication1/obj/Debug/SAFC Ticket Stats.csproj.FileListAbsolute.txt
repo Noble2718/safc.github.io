@@ -1,0 +1,18 @@
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\Wisej.Framework.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\de\Wisej.Framework.resources.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\es\Wisej.Framework.resources.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\fr\Wisej.Framework.resources.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\it\Wisej.Framework.resources.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\pt\Wisej.Framework.resources.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\tr\Wisej.Framework.resources.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\WisejPWAWebApplication1.Page1.resources
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\SAFC Ticket Stats.csproj.GenerateResource.cache
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\SAFC Ticket Stats.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\SAFC Ticket Stats.csproj.CopyComplete
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\SAFC Ticket Stats.csproj.AssemblyReference.cache
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\WisejPWAWebApplication1.dll.config
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\WisejPWAWebApplication1.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\bin\WisejPWAWebApplication1.pdb
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\WisejPWAWebApplication1.Properties.Resources.resources
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\WisejPWAWebApplication1.dll
+C:\Users\Joshua Millward\source\repos\WisejPWAWebApplication1\WisejPWAWebApplication1\obj\Debug\WisejPWAWebApplication1.pdb
